@@ -460,7 +460,20 @@
 		<texture id="ui_inGame2_UNISG_3" x="3973" y="1787" width="123" height="87"/>
 		<texture id="ui_inGame2_UNISG_4" x="3973" y="1874" width="123" height="87"/>
 		<texture id="ui_inGame2_UNISG_5" x="3973" y="1961" width="123" height="87"/>
-		<texture id="ui_inGame2_UNISG_6" x="3850" y="1961" width="123" height="87"/>
+		<texture id="ui_inGame2_UNISG_6" x="3973" y="1526" width="123" height="87"/>
+		<texture id="ui_inGame2_UNISG_7" x="3973" y="1439" width="123" height="87"/>
+		<texture id="ui_inGame2_UNISG_8" x="3973" y="1352" width="123" height="87"/>
+		<texture id="ui_inGame2_UNISG_9" x="3973" y="1265" width="123" height="87"/>
+		<texture id="ui_inGame2_UNISG_10" x="3973" y="1178" width="123" height="87"/>
+		
+		<!-- Renegade -->
+		
+		<texture id="ui_inGame2_Renegade_1" x="3727" y="1613" width="123" height="87"/>
+		<texture id="ui_inGame2_Renegade_2" x="3727" y="1700" width="123" height="87"/>
+		<texture id="ui_inGame2_Renegade_3" x="3727" y="1787" width="123" height="87"/>
+		<texture id="ui_inGame2_Renegade_4" x="3727" y="1874" width="123" height="87"/>
+		<texture id="ui_inGame2_Renegade_5" x="3727" y="1961" width="123" height="87"/>
+		
 		
 		
    </file>
