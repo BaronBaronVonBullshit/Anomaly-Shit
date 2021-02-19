@@ -474,7 +474,13 @@
 		<texture id="ui_inGame2_Renegade_4" x="3727" y="1874" width="123" height="87"/>
 		<texture id="ui_inGame2_Renegade_5" x="3727" y="1961" width="123" height="87"/>
 		
+		<!-- Monolith -->
 		
+		<texture id="ui_inGame2_Monolith_1" x="1599" y="957" width="123" height="87"/>
+		<texture id="ui_inGame2_Monolith_2" x="1599" y="1131" width="123" height="87"/>
+		<texture id="ui_inGame2_Monolith_3" x="1599" y="1218" width="123" height="87"/>
+		<texture id="ui_inGame2_Monolith_4" x="1599" y="1305" width="123" height="87"/>
+		<texture id="ui_inGame2_Monolith_5" x="1599" y="1044" width="123" height="87"/>
 		
    </file>
 </w>
